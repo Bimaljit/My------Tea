@@ -16,7 +16,7 @@ function draw(){
 
     rectMode(CENTER);
 
-    backgrouund("red");
+    background("brown");
 
     Engine.update(engine);
 
